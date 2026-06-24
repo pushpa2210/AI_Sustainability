@@ -1,0 +1,6 @@
+{
+  "name": "EcoGov Intelligence",
+  "description": "RAG-powered Municipal Waste Management Chatbot and Eco-Habit planner for young professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
