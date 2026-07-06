@@ -295,6 +295,8 @@ Climate Action
 # 👩‍💻 Author
 
 **Pushpa**
+**Manjit Samantaray**
+**Nikky Bharti**
 B.Tech AIML Student
 
 ### AI for Sustainability Virtual Internship
