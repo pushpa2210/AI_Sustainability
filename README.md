@@ -294,7 +294,7 @@ Climate Action
 
 # 👩‍💻 Author
 
-**Bhumi**
+**Pushpa**
 B.Tech AIML Student
 
 ### AI for Sustainability Virtual Internship
